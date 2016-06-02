@@ -1,0 +1,14 @@
+uuid: 2076970d-1e16-43fb-be49-569f2acb8367
+name: Drupal8
+mail: nirmalya.mondal@srijan.net
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

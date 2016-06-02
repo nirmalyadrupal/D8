@@ -1,0 +1,12 @@
+uuid: ca1d9133-2405-48b0-b9a2-d05381185d82
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - nirmalya.mondal@srijan.net
+reply: ''
+weight: 0
